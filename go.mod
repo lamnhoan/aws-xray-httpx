@@ -1,3 +1,3 @@
-module github.com/lamnhoan/aws-xray-httpx/v2
+module github.com/lamnhoan/aws-xray-httpx
 
 go 1.14
