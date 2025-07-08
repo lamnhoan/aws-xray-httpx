@@ -1,4 +1,4 @@
-module github.com/gogama/aws-xray-httpx/httpxxray/v2
+module github.com/lamnhoan/aws-xray-httpx/v2/httpxxray
 
 go 1.14
 
